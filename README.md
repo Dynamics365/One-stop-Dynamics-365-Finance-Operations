@@ -65,3 +65,5 @@
 * [About business performance analytics](https://learn.microsoft.com/en-us/dynamics365/finance/business-performance-analytics/business-performance-analytics-home-page)
 * [The Visual Studio 2022 add-in is now available for Dynamics 365 for Financials and Operations.](https://devblogs.microsoft.com/powerplatform/the-visual-studio-2022-add-in-is-now-available-for-dynamics-365-for-financials-and-operations/)
 * [X++ And Git: A Basic Setup](https://devblogs.microsoft.com/ise/2022/06/14/xpp-and-git/)
+
+Author: https://automaly.com/
